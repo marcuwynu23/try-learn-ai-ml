@@ -1,0 +1,8 @@
+0 carabao
+1 cat
+2 dog
+3 dolphin
+4 elephant
+5 leon
+6 pigeon
+7 tiger
